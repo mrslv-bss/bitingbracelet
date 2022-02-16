@@ -1,0 +1,10 @@
+"br_conn_part_h"= 40mm
+"br_conn_part_w"= 13.54mm
+"D5@Sketch1"="br_conn_part_w"
+"D4@Sketch1"="br_conn_part_w"
+"D3@Sketch1"="br_conn_part_h"/2
+"D6@Sketch1"="br_conn_part_h"/2
+"br_circle_first"= 260mm
+"br_circle_second"= "br_circle_first" + 15mm
+"D2@Sketch1"="br_circle_second"
+"D1@Sketch1"="br_circle_first"
