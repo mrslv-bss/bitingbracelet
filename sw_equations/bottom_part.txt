@@ -1,0 +1,17 @@
+"br_conn_part_h"= 40mm
+"br_conn_part_w"= 13.54mm
+"D5@Sketch1"="br_conn_part_w"
+"D4@Sketch1"="br_conn_part_w"
+"D3@Sketch1"="br_conn_part_h"/2
+"D6@Sketch1"="br_conn_part_h"/2
+"br_circle_first"= 60mm
+"br_circle_second"= "br_circle_first" + 15mm
+"D2@Sketch1"="br_circle_second"
+"D1@Sketch1"="br_circle_first"
+"br_hole_part"= IIF ( "br_hole_expression" > = "br_conn_part_w" , "br_conn_part_w" - 4 , "br_hole_expression" )'Actual value is br_hole_expression
+"D7@Sketch1"="br_hole_part"
+"D8@Sketch1"="br_hole_part"
+"br_hole_height"= 18mm
+"D9@Sketch1"="br_hole_height"
+"D10@Sketch1"="br_hole_height"
+"br_hole_expression"= 4mm
