@@ -4,7 +4,7 @@
 "D4@Sketch1"="br_conn_part_w"
 "D3@Sketch1"="br_conn_part_h"/2
 "D6@Sketch1"="br_conn_part_h"/2
-"br_circle_first"= 85mm
+"br_circle_first"= 95mm
 "br_circle_second"= "br_circle_first" + 15mm
 "D2@Sketch1"="br_circle_second"
 "D1@Sketch1"="br_circle_first"
@@ -25,5 +25,5 @@
 "D8@Sketch9"="br_hole_height"
 "D9@Sketch9"="br2_circle_first"
 "D10@Sketch9"="br2_circle_second"
-"br2_circle_first" = 65mm
+"br2_circle_first"= 75mm
 "br2_circle_second"= "br2_circle_first" + 15mm
